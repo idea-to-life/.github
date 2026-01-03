@@ -1,4 +1,4 @@
-## Idea to Life
+## Ideas to Life
 
 Turning ideas into living consumer experiences using Generative AI, Vibe‑Coding, and Agentic Intelligence.
 
@@ -6,7 +6,7 @@ Turning ideas into living consumer experiences using Generative AI, Vibe‑Codin
 
 🌱 What Is This?
 
-Idea to Life is a portfolio of experimental consumer applications.
+Ideas to Life is a portfolio of experimental consumer applications.
 
 Each project starts with a simple human idea — a thought, emotion, or intent — and explores how far modern AI systems can take it:
 	•	from idea → artifact
